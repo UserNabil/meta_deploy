@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UserNabil/meta_deploy/static/css/main.9882bee9.css",
+    "main.js": "/UserNabil/meta_deploy/static/js/main.aa84d42d.js",
+    "static/media/about.jpg": "/UserNabil/meta_deploy/static/media/about.cc04ad233555e3d12e7c.jpg",
+    "static/media/logo-head.png": "/UserNabil/meta_deploy/static/media/logo-head.3c21198516fe413f7d58.png",
+    "index.html": "/UserNabil/meta_deploy/index.html",
+    "main.9882bee9.css.map": "/UserNabil/meta_deploy/static/css/main.9882bee9.css.map",
+    "main.aa84d42d.js.map": "/UserNabil/meta_deploy/static/js/main.aa84d42d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9882bee9.css",
+    "static/js/main.aa84d42d.js"
+  ]
+}
